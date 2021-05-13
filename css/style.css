@@ -1,0 +1,153 @@
+*{
+    margin: 0%;
+}
+h1, h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    width: 100%;
+    overflow: hidden;
+}
+.left_header{
+    width: 50%;
+    height: 60px;
+    color: azure;
+    background-color: #5995DA;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right_header{
+    width: 50%;
+    height: 60px;
+    color: azure;
+    background-color: #5995DA;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo_part{
+    width: 100%;
+    height: 300px;
+    color: #8B949E;
+    background-color: #D6E9FE;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.logo_part h1{
+    font-size: 44px;
+}
+.middle_1{
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+.middle1{
+    width: 12.5%;
+    height: 300px;
+    background-color: #FFFFFF;
+    float: left;
+
+}
+.middle2{
+    width: 25%;
+    height: 250px;
+    color: #8B949E;
+    background-color: #C8C6FA;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middle3{
+    width: 25%;
+    height: 250px;
+    color: #8B949E;
+    background-color: #F09A9D;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middle4{
+    width: 25%;
+    height: 250px;
+    color: #8B949E;
+    background-color: #B2D6FF;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middle5{
+    width: 12.5%;
+    height: 250px;
+    color: #8B949E;
+    background-color: #FFFFFF;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middle_2{
+    overflow: hidden;
+}
+.midd1{
+    width: 25%;
+    height: 250px;
+    background-color: #FFFFFF;
+    float: left;
+}
+.midd2{
+    width: 25%;
+    height: 250px;
+    color: #8B949E;
+    background-color: #C3EDFA;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.midd3{
+    width: 25%;
+    height: 250px;
+    color: #8B949E;
+    background-color: #F5CF8E;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.midd4{
+    width: 25%;
+    height: 250px;
+    background-color: #FFFFFF;
+    float: right;
+}
+.Footer{
+
+    width: 100%;
+    overflow: hidden;
+    background-color: #D6E9FE;
+}
+.left{
+
+    width: 19%;
+    height: 100px;
+    float: left;
+    background-color: #5995DA;
+
+}
+.right{
+
+    width: 19%;
+    height: 100px;
+    float: right;
+    background-color: #5995DA;
+
+}
